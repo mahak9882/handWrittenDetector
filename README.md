@@ -1,5 +1,3 @@
-# handWrittenDetector
-a program that helps in successfully helps in detecting the handwritten text
 # Word Segmentation with Scale Space Technique
 
 The algorithm takes an **image containing words as input** and **outputs the detected words**.
